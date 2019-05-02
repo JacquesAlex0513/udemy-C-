@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 namespace TesteGit {
     class Program {
         static void Main(string[] args) {
+
+            Console.WriteLine("Teste de git hub - 02/05/2019");
+
+            Console.ReadLine();
+
         }
     }
 }
