@@ -11,6 +11,8 @@ namespace TesteGit {
             Console.WriteLine("Teste de git hub - 02/05/2019");
             Console.WriteLine("\nNova alteração alguns minutos depois...");
 
+            Console.WriteLine("\n~Teste de alteração online!");
+
             Console.ReadLine();
 
         }
